@@ -21,5 +21,5 @@ public class Product {
 	
 	// basic color
 	private String color;
-	// complex color: "deep precious dark and some point of green"
+	// complex color: "deep precious dark and some points of burgundy"
 }
