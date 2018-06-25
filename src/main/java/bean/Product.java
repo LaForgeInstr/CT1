@@ -1,3 +1,6 @@
+package bean;
+
+import java.util.Date;
 
 public class Product {
 
@@ -6,10 +9,7 @@ public class Product {
 	private String Brand;
 	private Date collectDate;
 
-	// Ranking x. y. Give me more information
-	// block(x/y)
-	private int Column;
-	private int Line;
+	private Location location;
 
 	// Category?
 	private String model;
